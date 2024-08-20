@@ -1,2 +1,2 @@
-# Coursera_HTML_CSS_Javascript
+# Coursera HTML CSS Javascript
 Coursera html css javascript repository
